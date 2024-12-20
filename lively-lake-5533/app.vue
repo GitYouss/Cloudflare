@@ -1,8 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    I have added my app to Cloudflare!
-    <NuxtWelcome />
-
+    Hello Cloudflare!
   </div>
 </template>
